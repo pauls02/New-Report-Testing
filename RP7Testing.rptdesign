@@ -297,7 +297,7 @@ return (true);]]></method>
                     <cell id="80">
                         <property name="style">tabledetailslabelcell</property>
                         <label id="96">
-                            <text-property name="text">Work Order</text-property>
+                            <text-property name="text">Work Order # </text-property>
                         </label>
                     </cell>
                     <cell id="76">
